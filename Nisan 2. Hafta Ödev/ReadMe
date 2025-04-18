@@ -1,0 +1,4 @@
+Bu dosya içerisinde Decision Tree (Karar Ağaçları) ve Random Forest Algoritmaları hakkında bilgi verilmektedir.
+Aşağıdaki örneklerde Scikit Learn'de hazır olarak bulunan IRIS DATASET kullanılmıştır.
+Grafiklerde ise datasetimizin görselleştirilmesi yapılmıştır.
+Aşağıdaki örnekte ise kullanıcadan bir çiçek hakkında girilen veriler ile çiçeğin hangi çiçek olduğu Decision Tree yöntemi ile tahmin edilmektedir.
